@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Agência de Viagens</title>
+    <!-- link pro favicon -->
+    <link rel="shortcut icon" href="img/icons.png" type="image/x-icon">
+</head>
+<body>
+    <!-- tag semântica para cabeçalho -->
+    <header>
+        <h1 id="Inicio">Agência de Viagens ✈️</h1>
+        <!-- tag sematica para barra denavegaçao=nav -->
+        <nav>
+            <a href="#Inicio">Inicio</a>
+            <a href="#destinos">Destinos</a>
+            <a href="#pacotes">Pacotes</a>
+            <a href="#contatos">Contato</a>
+        </nav>
+    </header>
+    <div class="container">
+        <!-- promoçoes e lugar populares=aside -->
+         <!-- Destinos populares 👇 -->
+        <aside class="sidebar">
+            <h2 class="destinos">Destinos populares</h2>
+            <ul>
+                <li><img src="img/paris.jpg" alt="paris">
+                    <p>Paris, FR</p>
+                </li>
+                <li><img src="img/ny.jpg" alt="newYork">
+                    <p>Nova York, US</p>
+                </li>
+                <li><img src="img/riojaneiro.jpg" alt="RJ">
+                    <p>Rio de Janeiro, BR</p>
+                </li>
+                <li><img src="img/roma.jpg" alt="roma">
+                    <p>Roma, IT</p>
+                </li>
+                <li><img src="img/tokio.jpg" alt="tokyo">
+                    <p>TOKYO, JP</p>
+                </li>
+            </ul>
+        </aside>
+        <!-- informaçao do meio=section -->
+        
+            <!-- tag semanticas para sessoes extras -->
+        <section class="main-content">
+            <h2 class="subtittle">Encontre o seu destino</h2>
+            <form>
+                <input type="text" placeholder="Digite o seu destino" required>
+                <input type="date" required>
+                <button type="submit">Procurar</button>
+            </form>
+        </section>
+
+        <aside class="sidebar2">
+            <h2 id="pacotes">Pacotes em Promoção</h2>
+            <ul> 
+                <!-- b= em negrito -->
+                <li><img src="img/cancun.jpg" alt="Cancun">
+                    <b>Praias Paradisiacas</b>
+                    <br>Pacote para Cancun - 5 dias por 3x de 2.500</li>
+                <li><img src="img/londres.jpg" alt="Londres">
+                    <b>Intercâmbio britânico</b>
+                    <br>Pacote para Londres - 7 dias por 2x de R$4.000
+                </li>
+                <li><img src="img/noronha.jpg" alt="Fernando de Noronha">
+                <b>Super Oportunidade!</b>
+                <br>Pacote para Fernando de Noronha-4 dias por 2x de R$3.200
+                </li>
+            </ul>
+        </aside>
+    </div>
+    <!-- rodapé-->
+    <footer>
+        <p id="contatos">&copy;2025 Agência de Viagens - Contato: contato@agenciaviagens.com </p>
+    </footer>
+</body>
+</html>
