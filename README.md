@@ -26,5 +26,10 @@ Parte 2
 
 ![image](https://github.com/user-attachments/assets/4e05b9d6-f99b-4aba-b07e-67de27735954)
 
+Parte 3
+
+![image](https://github.com/user-attachments/assets/c88815dc-d54b-4fa7-9c63-4f9476c6afc3)
+
+
 
 
