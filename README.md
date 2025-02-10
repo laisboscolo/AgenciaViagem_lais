@@ -9,5 +9,17 @@ Criação de página web com o auxílio do professor, com intuito pedagógico. P
 A criação de um protótipo é importante para que um projeto seja feito, desde que é nele que temos a idealização inicial de como a página ficará visualmente. As cores, distribuição dos itens, fontes e tamanhos são planejados. É nele que vemos se as cores se encaixam e se os tamanhos das fontes estão corretos. Por isso, antes da criação da página, foi feito um protótipo de alta fidelidade utilizando o Figma, tanto para desktop, quanto para a mobile.
 
 ## Protótipo Desktop
- 
+ Parte 1
 ![image](https://github.com/user-attachments/assets/d3c4e173-c95b-45e4-b081-b2f5e387f22a)
+
+Parte 2
+
+![image](https://github.com/user-attachments/assets/11c03d73-9e80-4b2f-912f-945d13235bee)
+
+##Protótipo Mobile
+
+Parte 1
+
+![image](https://github.com/user-attachments/assets/515c9856-30cc-4b60-803f-351942bf369d)
+
+
