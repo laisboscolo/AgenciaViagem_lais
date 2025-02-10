@@ -18,6 +18,7 @@ Parte 2
 
 ![image](https://github.com/user-attachments/assets/11c03d73-9e80-4b2f-912f-945d13235bee)
 
+
 ## Protótipo Mobile
 
 Parte 1
@@ -34,6 +35,11 @@ Parte 3
 
 ## Desenvolvimento da Página Web
 
+Após a criação do protótipo no Figma, iniciei o processo de desenvolvimento do site. Primeiramente, trabalhei na estrutura utilizando HTML, empregando tags semânticas para garantir uma organização clara e acessível do conteúdo. A estrutura do site foi montada com base nas melhores práticas de desenvolvimento web, usando tags como <header>, <footer>, <aside>, entre outras, para tornar o código mais legível e fácil de manter.
+
+Em seguida, passei para a parte de estilização com CSS. Primeiramente, importei fontes personalizadas para garantir que o site tivesse uma tipografia adequada ao design. Depois, comecei a aplicar os estilos, trabalhando nas classes e containers do site. A ideia foi criar um layout responsivo e agradável, respeitando o visual definido no protótipo.
+
+Esse processo de desenvolvimento me permitiu transformar o design planejado em uma interface funcional e com uma boa experiência para o usuário.
 
 
 
