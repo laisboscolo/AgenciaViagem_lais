@@ -41,5 +41,15 @@ Em seguida, passei para a parte de estilização com CSS. Primeiramente, importe
 
 Esse processo de desenvolvimento me permitiu transformar o design planejado em uma interface funcional e com uma boa experiência para o usuário.
 
+Parte 1
+
+![image](https://github.com/user-attachments/assets/e6e4b8db-c530-4106-9242-ef06757038bd)
+
+Parte 2
+
+![image](https://github.com/user-attachments/assets/11bf6a1f-215e-4b0e-8524-afdd4daf7439)
+
+
+
 
 
