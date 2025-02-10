@@ -35,7 +35,7 @@ Parte 3
 
 ## Desenvolvimento da Página Web
 
-Após a criação do protótipo no Figma, iniciei o processo de desenvolvimento do site. Primeiramente, trabalhei na estrutura utilizando HTML, empregando tags semânticas para garantir uma organização clara e acessível do conteúdo. A estrutura do site foi montada com base nas melhores práticas de desenvolvimento web, usando tags como <header>, <footer>, <aside>, entre outras, para tornar o código mais legível e fácil de manter.
+Após a criação do protótipo no Figma, iniciei o processo de desenvolvimento do site. Primeiramente, trabalhei na estrutura utilizando HTML, empregando tags semânticas para garantir uma organização clara e acessível do conteúdo. A estrutura do site foi montada com base nas melhores práticas de desenvolvimento web, usando tags como header, footer, aside, entre outras, para tornar o código mais legível e fácil de manter.
 
 Em seguida, passei para a parte de estilização com CSS. Primeiramente, importei fontes personalizadas para garantir que o site tivesse uma tipografia adequada ao design. Depois, comecei a aplicar os estilos, trabalhando nas classes e containers do site. A ideia foi criar um layout responsivo e agradável, respeitando o visual definido no protótipo.
 
